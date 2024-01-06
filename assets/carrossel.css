@@ -10,6 +10,7 @@
 
 .swiper-slide img{
     width: 100%;
+    border-radius: 10px;
 }
 
 
@@ -51,7 +52,7 @@
     font-weight: 700;
 }
 
-.descrição__titulo-livro{
+.descrição__titulo-secundario{
     color: var(--azul);
     font-size: 18px;
     font-weight: 700;
