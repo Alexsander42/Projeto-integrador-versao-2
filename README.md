@@ -1,2 +1,2 @@
-# Alurabook
-Projeto Acadêmico de responsividade.
+# Proz Educação
+Projeto Integrador.
